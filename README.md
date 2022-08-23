@@ -7,5 +7,5 @@ pip install requirements.txt
 ```
 # step 2
 ```
-lama-cleaner --device=cpu --port=8080
+python main.py
 ```

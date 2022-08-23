@@ -21,13 +21,13 @@ def load_requirements():
 # https://setuptools.readthedocs.io/en/latest/setuptools.html#including-data-files
 setuptools.setup(
     name="lama-cleaner",
-    version="0.11.0",
-    author="PanicByte",
-    author_email="cwq1913@gmail.com",
-    description="Image inpainting tool powered by SOTA AI Model",
+    version="0.11.11",
+    author="student",
+    author_email="info@digipodium.com",
+    description="Image inpainting tool powered by AI Model",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Sanster/lama-cleaner",
+    url="https://github.com/zaidkamil/lama-cleaner",
     packages=setuptools.find_packages("./"),
     package_data={"lama_cleaner": web_files},
     install_requires=load_requirements(),

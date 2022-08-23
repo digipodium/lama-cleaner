@@ -3,7 +3,7 @@
 
 # step 1
 ```
-pip install lama-cleaner
+pip install requirements.txt
 ```
 # step 2
 ```
